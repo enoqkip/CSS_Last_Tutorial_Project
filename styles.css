@@ -1,0 +1,10 @@
+* {
+  background-color: rgb(206, 84, 84);
+  font-size: 20px;
+  color: white;
+}
+h1,
+p {
+  text-transform: capitalize;
+  text-decoration: double;
+}
