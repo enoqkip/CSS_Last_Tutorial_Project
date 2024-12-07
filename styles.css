@@ -41,3 +41,12 @@ body {
   letter-spacing: 2px;
   margin-bottom: 3rem;
 }
+.blogs-center {
+  width: 1170px;
+  max-width: var(--max-width);
+  margin: 3rem;
+}
+.blog-img {
+  width: var(--max-width);
+  display: block;
+}
