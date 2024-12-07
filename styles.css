@@ -34,7 +34,7 @@ body {
   margin-bottom: 2rem;
 }
 .blogs-center {
-  width: var(--fluid-width);
+  width: 30rem;
   max-width: var(--max-width);
   margin: 0 auto;
 }
