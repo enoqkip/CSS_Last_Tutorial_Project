@@ -10,4 +10,9 @@ img {
 :root {
   --primary: #645cff;
   --primary-dark: #3c3799;
+  --grey-light: #f1f5f9;
+  --grey: #64748b;
+  --grey-dark: #0f172a;
+  --fluid-width: 90vw;
+  --max-width: 1170px;
 }
